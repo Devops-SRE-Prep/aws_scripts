@@ -1,0 +1,13 @@
+Print list of s3 buckets as of Fri Jan  3 19:43:26 UTC 2025 
+2025-01-01 20:35:51 aws-demo-s3-awscli2
+Print list of ec2 instacnes as of Fri Jan  3 19:43:26 UTC 2025
+"i-0ddc41985ca7ddced"
+"i-08b14b12706583e54"
+Print list of Lambda functions as of Fri Jan  3 19:43:26 UTC 2025
+{
+    "Functions": []
+}
+Print list of IAM Users list as of Fri Jan  3 19:43:26 UTC 2025
+{
+    "Users": []
+}
